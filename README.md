@@ -1,4 +1,4 @@
-# Hi, I'm Cara Evangeline 👋
+# Hi, I'm Cara Evangeline
 
 **Machine Learning Engineer · London, UK**
 
